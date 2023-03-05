@@ -235,6 +235,7 @@ INCLUDE_KEYS = {
             "navigation_buttons_visibility": ...,
             "question_title_location": ...,
             "questions_order": ...,
+            "visible_if": ...,
         }
     },
     "title": ...,
